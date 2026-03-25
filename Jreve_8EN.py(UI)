@@ -17,7 +17,7 @@ USER_KEY = "local_user"
 # --- Jreve backend ---
 try:
     sys.path.append(os.path.dirname(__file__))
-    from jreve_v026 import (
+    from jreve_v026EN import (
         process_message, shutdown_and_save,
         self_modify, get_profile, save_profiles, load_profiles,
         is_identity_contaminated,

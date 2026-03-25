@@ -111,7 +111,7 @@ export CHATGPT_API_KEY="your key"  # optional
 **Run**
 
 ```bash
-python3 Jreve_7.py
+python3 Jreve_8.py
 ```
 
 The first time you launch, Jreve will ask what you want to be called. After that, it starts learning your goals, schedule, and working style from your conversations.
